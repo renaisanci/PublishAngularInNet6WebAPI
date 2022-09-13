@@ -1,2 +1,2 @@
 # PublishAngularInNet6WebAPI
-Publish Angular with ASP.NET Core Separate Project Using Electron.NET to containerize everything 
+Publish Separate Angular application inside ASP.NET Core Separate Project Using Electron.NET to containerize everything 
